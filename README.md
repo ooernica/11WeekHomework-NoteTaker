@@ -22,8 +22,8 @@ npm i
 npm run dev 
           
 ## Deployment
-     https://ooernica.github.io/11WeekHomework-NoteTaker/
 
+https://ooernica.github.io/11WeekHomework-NoteTaker/
 
 ## Photo
           
@@ -31,7 +31,7 @@ npm run dev
 N/A
           
 ## Contributors
-CJ Sanders
+Worked with CJ Sanders
     
 ## Tests
 N/A
