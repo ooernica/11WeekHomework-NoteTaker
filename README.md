@@ -23,7 +23,7 @@ npm run dev
           
 ## Deployment
 
-https://ooernica.github.io/11WeekHomework-NoteTaker/
+https://notetaker11el.herokuapp.com/
 
 ## Photo
           
